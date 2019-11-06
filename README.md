@@ -2,7 +2,5 @@
 SpecOptim tool for optimisation of preprocessing and model calibration of spectral data
 
 The tool is a lightweight executable file designed to run on Windows systems. It was developed using Visual Basic.
-Instructions for use are in the 'RESIST software instructions' Word document included.
+Instructions for use are in the 'SpecOptim software instructions' Word document included.
 For further details and to report any issues, please contact matt.aitkenhead@hutton.ac.uk.
-
-NOTE: Due to concerns with performance, the MLR (Multiple Linear Regression) functionality has been disabled for the moment. This does not affect the NN and PLS model performance.
